@@ -1,2 +1,2 @@
 # NarakaDump
-更新 NarakaDumps 数据
+此项目分享最新/历史 NarakaDumps
